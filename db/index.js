@@ -1,5 +1,4 @@
 const connection = require('../config')
-const mysql = require('mysql2')
 
 
 class empDB {
